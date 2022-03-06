@@ -1,6 +1,6 @@
 site_title = "ArxivDaily"
 limit_days = 7
-cache_url = "https://linlinwang1997.github.io/ArxivDaily/cache.json"
+# cache_url = "https://linlinwang1997.github.io/ArxivDaily/cache.json"
 
 [[sources]]
 limit = 100
